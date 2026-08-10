@@ -1,0 +1,11 @@
+# Directories
+.brainStarage/
+.vscode/
+
+# Files
+*.a
+*.o
+*.out
+*test*
+*.log
+
