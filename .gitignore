@@ -6,6 +6,5 @@
 *.a
 *.o
 *.out
-*test*
 *.log
 
